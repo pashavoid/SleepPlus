@@ -1,0 +1,5 @@
+name: SleepPlus
+main: ru.pashavoid.sleeplus.Sleep
+version: 0.1
+author: pashavoid
+description: A simple plugin for an individual skip of the night for players.
